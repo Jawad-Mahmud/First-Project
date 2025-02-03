@@ -1,1 +1,66 @@
-tt
+body{
+  background-color: #2b2a2afa;
+}
+.container{
+  padding:20px;
+}
+.questDiv{
+  height:30px;
+  width:80%;
+  background-color:;
+  color:white;
+ margin:10px;
+
+}
+.optDiv{
+  color:#898989;
+  height:40px;
+  background-color:#232323;
+  margin-top:10px;
+  padding:5px;
+  border-radius:30px;
+ 
+}
+.optDiv{
+  
+}
+.marked{
+  background-color:pink;
+}
+.right{
+  background-color:#1f5f03;
+}
+.wrong{
+  background-color:#c80000;
+}
+.notMarked{
+  background-color:#e4f250;
+}
+.menu-list{
+  color:white;
+  position:fixed;
+  left:-500px;
+  transition:.3s ease;
+  background-color: #17171b;
+  height:100vh;
+  
+}
+.menu-list.active{
+  left:0px;
+}
+.menu{
+  background-color: ;
+  position:fixed;
+  padding:0;
+}
+li {
+  margin-top:20px;
+  list-style:none;
+  margin-right:20px;
+  
+}
+a{
+  color:white;
+  text-decor
+}
+
